@@ -48,6 +48,13 @@ The dataset contains 13 features about residential properties:
 
 ## ⚙️ Installation
 1. Clone the repository:
+
+## SCREENSHOTS
+
+![image](https://github.com/user-attachments/assets/7e7df7e8-b39f-4059-b2f4-a836b34bc0ac)
+![image](https://github.com/user-attachments/assets/7e7df7e8-b39f-4059-b2f4-a836b34bc0ac)
+
+
 ```bash
 git clone https://github.com/yourusername/housing-price-prediction.git
 cd housing-price-prediction
