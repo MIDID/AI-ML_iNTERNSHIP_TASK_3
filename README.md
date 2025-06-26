@@ -50,9 +50,20 @@ The dataset contains 13 features about residential properties:
 1. Clone the repository:
 
 ## SCREENSHOTS
+![62394658-caa9-4fde-a091-46f2c700fb5f](https://github.com/user-attachments/assets/32a20790-7921-467e-80f2-35b866488f34)
+![62394658-caa9-4fde-a091-46f2c700fb5f](https://github.com/user-attachments/assets/32a20790-7921-467e-80f2-35b866488f34)
 
-![image](https://github.com/user-attachments/assets/7e7df7e8-b39f-4059-b2f4-a836b34bc0ac)
-![image](https://github.com/user-attachments/assets/7e7df7e8-b39f-4059-b2f4-a836b34bc0ac)
+
+
+![48d5e5f5-f143-4953-ad13-36731a2dd200](https://github.com/user-attachments/assets/1f9242c8-4d51-49ec-9d19-5148f1dc8f8b)
+![48d5e5f5-f143-4953-ad13-36731a2dd200](https://github.com/user-attachments/assets/1f9242c8-4d51-49ec-9d19-5148f1dc8f8b)
+
+![84d90513-9512-484f-a455-e27f1f3a2714](https://github.com/user-attachments/assets/ff39df1b-9296-4cde-b7d7-b8f7340c68f9)
+![84d90513-9512-484f-a455-e27f1f3a2714](https://github.com/user-attachments/assets/ff39df1b-9296-4cde-b7d7-b8f7340c68f9)
+
+
+![a9b89c1d-4f9f-4806-9048-fb4aa0cc762e](https://github.com/user-attachments/assets/f14c3a6e-7350-4a70-93b8-45b9512817d1)
+![a9b89c1d-4f9f-4806-9048-fb4aa0cc762e](https://github.com/user-attachments/assets/f14c3a6e-7350-4a70-93b8-45b9512817d1)
 
 
 ```bash
